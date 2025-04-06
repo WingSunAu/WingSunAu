@@ -3,7 +3,7 @@
 
 <p align="middle">
 half circle from -Byron DeLaBarre
-<p align="middle">
+<!-- language: lang-none -->
 ```
                                                ooo OOO OOO ooo
                                            oOO                 OOo
@@ -24,5 +24,5 @@ half circle from -Byron DeLaBarre
                                             |                   |
                                              \_________________/
      
-```
-<p align="middle">
+
+
