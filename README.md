@@ -4,6 +4,7 @@
 <p align="middle">
 half circle from -Byron DeLaBarre
 <!-- language: lang-none -->
+<pre>
 ```
                                                ooo OOO OOO ooo
                                            oOO                 OOo
@@ -24,5 +25,4 @@ half circle from -Byron DeLaBarre
                                             |                   |
                                              \_________________/
      
-
-
+</pre>
