@@ -4,7 +4,7 @@
 <p align="middle">
 <!-- language: lang-none -->
 <pre>
-```
+
                                                ooo OOO OOO ooo
                                            oOO                 OOo
                                        oOO                         OOo
