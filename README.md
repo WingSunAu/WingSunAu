@@ -2,7 +2,6 @@
 <a href="https://github.com/WingSunAu"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=WingSunAu&style=flat-circle" width="125"/></a>
 
 <p align="middle">
-half circle from -Byron DeLaBarre
 <!-- language: lang-none -->
 <pre>
 ```
