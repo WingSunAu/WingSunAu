@@ -1,11 +1,1 @@
-Currently Obsessed with ReadMe Widgets
-    [![An image of @wingsunau's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wingsunau)](https://holopin.io/@wingsunau)
-
-
-<table>
-<tr>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingSunAu&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="50%" height="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=WingSunAu&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"  height="50%"/>
-    <img src="https://github-3d-contribution-calendar.vercel.app/api?username=WingSunAu"  height="50%"/>
-<tr/>
-</table>
+currently doing mental gymnastics to make having access to my projects on company git accounts a good idea.
